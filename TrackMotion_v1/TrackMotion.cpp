@@ -1,6 +1,7 @@
 /////////////////////////////////////////////////////////////////////////
 // Inherited from the Sample using Google protocol buffers C++ provided by ABB
 // Historical Version:
+// 2020.04.13 Using Git for version control
 // 2020.01.16 Combine the Spiral and Eclipse tracking, Multi-thread, 3D and 6D into one single project.
 // 2020.01.09 Useable version that can be used for tracking. Single Thread.
 // 2019.12.23 adding Eigen lib into the program
